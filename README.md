@@ -1,2 +1,0 @@
-# project-math-quiz
-
